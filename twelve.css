@@ -1,0 +1,13 @@
+.div{
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 10px;
+}
+.div img{
+    width: 600px;
+    height: 750px;
+    margin-top: 50px;
+}
+.body{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Davpublicschool_rourkela.jpg/1200px-Davpublicschool_rourkela.jpg');
+}

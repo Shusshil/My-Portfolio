@@ -1,0 +1,13 @@
+.div{
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 10px;
+}
+.div img{
+    width: 600px;
+    height: 750px;
+    margin-top: 50px;
+}
+.body{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/57713a8e2994cae381dd86fe/1472450700765-73Z51CK1ASF3G63JUWGL/12657180_780471682087159_4936195181014273295_o.jpg?format=1500w');
+}
